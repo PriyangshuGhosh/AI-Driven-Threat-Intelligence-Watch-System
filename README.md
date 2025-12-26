@@ -25,11 +25,3 @@ Embedded: ESP32, LVGL
 Systems: Linux (user-level operations)
 
 Other Tools: Git, Nextcloud (for testing & file interface)
-
-Project Structure
-/threat-intel-watch
-├── README.md                 # Project overview
-├── src/                      # Source code
-├── data/                     # Sample datasets (personal, anonymized)
-├── docs/                     # Documentation, diagrams
-└── scripts/                  # Utility scripts for preprocessing and alerts
